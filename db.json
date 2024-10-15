@@ -1,0 +1,44 @@
+{
+    "employees":[
+        {
+            "id":1,
+            "name": "Nguyen Van A",
+            "date": "2015-02-28",
+            "email": "nvs@gmail.com",
+            "address": "Ba dinh,Ha Noi",
+            "status": false
+        },
+        {
+            "id":2,
+            "name": "Nguyen Van B",
+            "date": "2017-05-15",
+            "email": "nvb@gmail.com",
+            "address": "Hoang Mai, Ha Noi",
+            "status": true
+        },
+        {
+            "id":3,
+            "name": "Nguyen Van C",
+            "date": "2018-08-10",
+            "email": "nvc@gmail.com",
+            "address": "Dong Da, Ha Noi",
+            "status": false
+        },
+        {
+            "id":4,
+            "name": "Nguyen Van D",
+            "date": "2020-12-25",
+            "email": "nvd@gmail.com",
+            "address": "Quan 1, Ha Noi",
+            "status": true
+        },
+        {
+            "id":5,
+            "name": "Nguyen Van E",
+            "date": "2019-03-12",
+            "email": "nve@gmail.com",
+            "address": "Binh Thanh, Ha Noi",
+            "status": false
+        }
+    ]
+}
